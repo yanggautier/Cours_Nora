@@ -1,0 +1,67 @@
+Marche	Apport	Impaye	Assurance	Endettement	Famille	Enfants	Logement	Profession	Intitule	Age
+Renovation	pas_Apport	Imp_0	AID	End_1	Union libre	Enf_0	LogeFamille	OuvrierNonQual	MR	50
+Renovation	pas_Apport	Imp_0	Sans Assurance	End_2	Marie	Enf_0	Proprietaire	Ouvrier qualifie	MR	40
+Voiture	Apport	Imp_0	AID	End_3	Marie	Enf_1	AccedantProp	Ouvrier qualifie	MR	30
+Renovation	pas_Apport	Imp_0	Senior	End_2	Veuf	Enf_0	Proprietaire	Retraite	MR	60
+Scooter	Apport	Imp3+	AID	End_4	Union libre	Enf_0	LogeEmployeur	Cadre moyen	MR	20
+Renovation	pas_Apport	Imp_0	Senior	End_3	Marie	Enf_0	Proprietaire	Retraite	MR	60
+Renovation	Apport	Imp_0	Senior	End_2	Veuf	Enf_0	Proprietaire	Retraite	MME	60
+Renovation	Apport	Imp_0	Sans Assurance	End_2	Veuf	Enf_0	Proprietaire	Retraite	MME	60
+MobilAmeub	Apport	Imp_0	Sans Assurance	End_1	Union libre	Enf_0	LogeEmployeur	OuvrierNonQual	MR	40
+Renovation	Apport	Imp_0	Senior	End_2	Marie	Enf_0	Proprietaire	Retraite	MR	60
+Voiture	Apport	Imp_0	AID+Chom	End_3	Union libre	Enf_0	Locataire	OuvrierNonQual	MLLE	20
+MobilAmeub	pas_Apport	Imp_0	AID	End_3	Union libre	Enf_0	Locataire	Ouvrier qualifie	MR	40
+Voiture	Apport	Imp_0	AID	End_4	Union libre	Enf_2	Locataire	Ouvrier qualifie	MR	30
+MobilAmeub	pas_Apport	Imp_0	AID	End_3	Union libre	Enf_1	Proprietaire	Ouvrier qualifie	MR	50
+MobilAmeub	pas_Apport	Imp_0	Senior	End_2	Divorce	Enf_0	Proprietaire	Retraite	MR	60
+MobilAmeub	pas_Apport	Imp_0	AID+Chom	End_3	Celibataire	Enf_0	Locataire	OuvrierNonQual	MR	40
+Voiture	Apport	Imp_0	AID	End_1	Marie	Enf_1	Proprietaire	Cadre sup.	MR	50
+Renovation	pas_Apport	Imp3+	Sans Assurance	End_4	Marie	Enf_2	AccedantProp	Cadre moyen	MR	50
+MobilAmeub	pas_Apport	Imp3+	AID	End_1	Celibataire	Enf_0	LogeFamille	Ouvrier qualifie	MR	30
+MobilAmeub	pas_Apport	Imp3+	AID+Chom	End_2	Celibataire	Enf_0	Locataire	Cadre moyen	MLLE	30
+Voiture	Apport	Imp3+	Sans Assurance	End_3	Veuf	Enf_0	Proprietaire	OuvrierNonQual	MR	40
+Renovation	Apport	Imp_0	Sans Assurance	End_1	Marie	Enf_0	Proprietaire	Retraite	MME	60
+Renovation	pas_Apport	Imp_0	AID	End_1	Celibataire	Enf_0	Proprietaire	Cadre moyen	MR	50
+Renovation	Apport	Imp_0	AID	End_3	Marie	Enf_2	Proprietaire	Ouvrier qualifie	MR	30
+MobilAmeub	Apport	Imp_0	AID	End_3	Marie	Enf_2	Proprietaire	Cadre moyen	MR	50
+MobilAmeub	Apport	Imp_0	AID	End_4	Marie	Enf_3	AccedantProp	Cadre sup.	MR	30
+Renovation	pas_Apport	Imp3+	AID	End_4	Celibataire	Enf_3	Proprietaire	Cadre moyen	MR	40
+MobilAmeub	Apport	Imp_0	Senior	End_1	Marie	Enf_0	Proprietaire	Retraite	MR	60
+Moto	Apport	Imp_0	AID+Chom	End_1	Celibataire	Enf_0	Locataire	Ouvrier qualifie	MR	30
+Scooter	Apport	Imp_1_ou_2	AID	End_4	Marie	Enf_3	Locataire	Ouvrier qualifie	MR	20
+Moto	pas_Apport	Imp_1_ou_2	AID	End_3	Celibataire	Enf_0	Locataire	OuvrierNonQual	MR	30
+Voiture	Apport	Imp_0	AID	End_3	Marie	Enf_2	AccedantProp	Cadre sup.	MR	40
+Renovation	Apport	Imp_1_ou_2	Senior	End_3	Union libre	Enf_0	Locataire	Retraite	MR	60
+Moto	Apport	Imp_0	AID	End_2	Marie	Enf_1	Proprietaire	Cadre moyen	MR	50
+Scooter	Apport	Imp_0	AID	End_3	Union libre	Enf_1	Locataire	Cadre sup.	MLLE	30
+Renovation	pas_Apport	Imp_0	Senior	End_1	Veuf	Enf_1	Proprietaire	Retraite	MR	60
+Voiture	pas_Apport	Imp_0	AID	End_1	Celibataire	Enf_0	Locataire	Ouvrier qualifie	MR	20
+Voiture	Apport	Imp_0	Sans Assurance	End_1	Celibataire	Enf_0	LogeFamille	Ouvrier qualifie	MR	30
+Moto	pas_Apport	Imp_0	AID	End_3	Marie	Enf_2	AccedantProp	Cadre moyen	MR	40
+Moto	Apport	Imp_0	Sans Assurance	End_2	Celibataire	Enf_0	Proprietaire	Cadre moyen	MR	30
+Voiture	pas_Apport	Imp3+	AID+Chom	End_2	Celibataire	Enf_0	LogeFamille	Cadre sup.	MR	30
+MobilAmeub	pas_Apport	Imp_0	Sans Assurance	End_3	Marie	Enf_2	Proprietaire	Ouvrier qualifie	MR	50
+Voiture	Apport	Imp3+	AID+Chom	End_4	Divorce	Enf_0	Locataire	OuvrierNonQual	MR	20
+MobilAmeub	Apport	Imp_0	AID	End_3	Union libre	Enf_0	Locataire	Cadre moyen	MR	30
+Voiture	Apport	Imp3+	Senior	End_2	Marie	Enf_0	Locataire	Retraite	MR	60
+Renovation	pas_Apport	Imp_0	Sans Assurance	End_2	Marie	Enf_0	Proprietaire	Cadre moyen	MR	50
+Moto	Apport	Imp_0	AID	End_4	Marie	Enf_2	Proprietaire	Cadre sup.	MR	50
+Moto	pas_Apport	Imp3+	AID	End_4	Union libre	Enf_2	Locataire	Ouvrier qualifie	MR	40
+Scooter	Apport	Imp_0	AID	End_3	Divorce	Enf_1	Locataire	Cadre moyen	MME	20
+MobilAmeub	pas_Apport	Imp3+	AID+Chom	End_2	Celibataire	Enf_0	Locataire	OuvrierNonQual	MLLE	20
+Voiture	Apport	Imp_0	AID	End_4	Marie	Enf_3	Locataire	Ouvrier qualifie	MR	30
+Voiture	Apport	Imp3+	AID+Chom	End_1	Union libre	Enf_0	LogeFamille	Ouvrier qualifie	MR	20
+Side-car	pas_Apport	Imp_0	Sans Assurance	End_1	Celibataire	Enf_0	LogeEmployeur	Cadre moyen	MR	30
+Voiture	Apport	Imp_0	Sans Assurance	End_1	Celibataire	Enf_0	Proprietaire	Ouvrier qualifie	MR	50
+Renovation	pas_Apport	Imp_1_ou_2	AID	End_3	Celibataire	Enf_4	Proprietaire	Cadre sup.	MR	50
+Voiture	Apport	Imp_1_ou_2	AID	End_4	Marie	Enf_4	Locataire	Cadre sup.	MR	30
+Voiture	pas_Apport	Imp_0	AID+Chom	End_4	Marie	Enf_3	AccedantProp	Cadre moyen	MME	30
+Scooter	Apport	Imp3+	AID	End_1	Celibataire	Enf_0	LogeFamille	Ouvrier qualifie	MR	20
+MobilAmeub	pas_Apport	Imp_0	AID	End_1	Marie	Enf_2	Proprietaire	Cadre moyen	MR	50
+MobilAmeub	pas_Apport	Imp3+	AID+Chom	End_1	Celibataire	Enf_0	Locataire	OuvrierNonQual	MLLE	30
+Moto	Apport	Imp_1_ou_2	AID+Chom	End_3	Veuf	Enf_2	Proprietaire	Cadre moyen	MME	30
+MobilAmeub	pas_Apport	Imp_0	AID+Chom	End_1	Divorce	Enf_0	Locataire	Cadre moyen	MME	30
+MobilAmeub	pas_Apport	Imp3+	AID	End_2	Union libre	Enf_0	Locataire	OuvrierNonQual	MR	40
+Renovation	pas_Apport	Imp3+	AID	End_4	Divorce	Enf_3	Proprietaire	OuvrierNonQual	MME	30
+Voiture	Apport	Imp_1_ou_2	AID+Chom	End_4	Marie	Enf_1	Locataire	Ouvrier qualifie	MR	20
+Renovation	pas_Apport	Imp_1_ou_2	Senior	End_2	Marie	Enf_0	Proprietaire	Retraite	MR	60
